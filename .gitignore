@@ -21,3 +21,17 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+.settings
+.checkstyle
+.classpath
+.project
+.springBeans
+.DS_Store
+target
+catalina.base_IS_UNDEFINED
+.idea
+*.iml
+test-output
+bin
+tmp
