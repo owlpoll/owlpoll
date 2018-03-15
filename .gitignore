@@ -35,3 +35,4 @@ catalina.base_IS_UNDEFINED
 test-output
 bin
 tmp
+.idea/*
